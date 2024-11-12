@@ -9,3 +9,4 @@ This is a project I did for upskilling following a Youtube Tutorial (https://you
 *Interactive  Filters enabled to view changes in respective data patterns on the dashboards.
 *SQL queries used to verify calculations.
 *Implementation of column, donut, butterfly, line, slider charts to draw insights.
+
