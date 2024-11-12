@@ -3,8 +3,8 @@
 
 This is a project I did for upskilling following a Youtube Tutorial (https://youtu.be/lrl0vz-p-yc?si=b3YrIu5sr_MU02L5).
 *SOFTWARES USED: MS Excel, MS SQL (SSMS 20), Tableau
-#[SQL Query Sheet] (https://1drv.ms/w/c/1ca18209e4764208/EeaLH7aCeutGvbQh7BYlwooB25aANYnOLCiTnY8D9x2q0A?e=QHovdm)
-#[Problem Statement] (https://1drv.ms/w/c/1ca18209e4764208/Eae_qxDpe4RJkD32LZ2wax4BAYPF0QROe0xQnA0-86P8Vw?e=tX2Lw1)
+[SQL Query Sheet] (https://1drv.ms/w/c/1ca18209e4764208/EeaLH7aCeutGvbQh7BYlwooB25aANYnOLCiTnY8D9x2q0A?e=QHovdm)
+[Problem Statement] (https://1drv.ms/w/c/1ca18209e4764208/Eae_qxDpe4RJkD32LZ2wax4BAYPF0QROe0xQnA0-86P8Vw?e=tX2Lw1)
 *Project uses two dashboards (navigational buttons used to switch between Dasboards) to visualise trends in pizza Sales and identify peak sales/hrs/categories.
 *Interactive  Filters enabled to view changes in respective data patterns on the dashboards.
 *SQL queries used to verify calculations.
