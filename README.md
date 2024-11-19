@@ -10,3 +10,9 @@ This is a project I did for upskilling following a Youtube Tutorial (https://you
 *SQL queries used to verify calculations.
 *Implementation of column, donut, butterfly, line, slider charts to draw insights.
 
+[Project 2: Housing Conditions in Australia] (https://1drv.ms/w/c/1ca18209e4764208/Ee4buuswuuVIpjwPid9ls6ABhOLrQY6WSIFqAq09TBgtnw?e=YzSqOp)
+This is a group project I completed for my unit Applied Quantitative Methods.
+*SOFTWARES USED: MS Excel
+*Data Visualisation for different datasets
+*Data Collection for developing predictive rent models with respect to various rent determinants
+*Analysing correlation between weekly rents and different determinants(No. of Bedrooms, Distance to nearest school)
