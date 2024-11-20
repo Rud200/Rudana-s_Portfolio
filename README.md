@@ -16,3 +16,9 @@ This is a group project I completed for my unit Applied Quantitative Methods.
 *Data Visualisation for different datasets
 *Data Collection for developing predictive rent models with respect to various rent determinants
 *Analysing correlation between weekly rents and different determinants(No. of Bedrooms, Distance to nearest school)
+
+# [Project 3: Netflix Recommendation Engine:Mathematical Model] (https://1drv.ms/x/c/1ca18209e4764208/EVLuXcybdSZJlBteRmx9rNMBbcYM9vPkGhQCToVGEApsYQ?e=wQNjQB)
+*SOFTWARES USED: MS EXCEL
+*Mathematical Model identifies correlation between diffrent shows
+*Implementation of Statiscal Analysis
+*Strong Correlation indicates appropriate recommendation of respective movies
